@@ -1,6 +1,6 @@
 # worse-promise
 
-promise but worse
+promise but worse. adheres to the [Worse Promises/S+ specification](https://github.com/worse-promise/spec)
 
 ## why
 
