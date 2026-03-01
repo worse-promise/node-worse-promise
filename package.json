@@ -1,0 +1,27 @@
+{
+  "name": "worse-promise",
+  "version": "1.0.0",
+  "description": "promise but worse",
+  "keywords": [
+    "67"
+  ],
+  "homepage": "https://github.com/worse-promise/node-worse-promise#readme",
+  "bugs": {
+    "url": "https://github.com/worse-promise/node-worse-promise/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/worse-promise/node-worse-promise.git"
+  },
+  "license": "SEE LICENCE in Licence or license",
+  "author": "10x'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "echo \"something is happening\""
+  },
+  "devDependencies": {
+    "axios": "^1.13.6"
+  }
+}
